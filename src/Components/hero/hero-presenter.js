@@ -8,7 +8,7 @@ const HeroPresenter = () => {
       <div className={"hero-bg"}>
         <img
           src={
-            "https://timocampobucketstuff.s3.amazonaws.com/cars-sports-tuning-toyota-supra-1920x1080-61716-web.jpg"
+            "https://timocampobucketstuff.s3.amazonaws.com/Toyota-AE86-tuning-custom-drift-race-racing-wallpaper-1920x1280.jpg"
           }
           alt={""}
         />

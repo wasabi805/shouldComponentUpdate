@@ -1,0 +1,36 @@
+.container{
+  position: relative;
+  display: flex;
+  text-align: center;
+  background: #c3cfe2;
+  border: 1px solid black;
+  margin: 2rem 15%;
+  min-height: 50vh;
+  height: 100%;
+  width: auto;
+  align-items: flex-end;
+}
+
+
+.card{
+  border: 1px solid red;
+  display: inline-block;
+  width: 30%;
+  min-height: 30vh;
+  margin: 1rem 1rem;
+  vertical-align: sub;
+
+  .header{
+    color: grey;
+    font-size: 3vh;
+  }
+
+  .stats{
+    font-size: 4rem;
+  }
+}
+
+.mph{
+
+}
+
